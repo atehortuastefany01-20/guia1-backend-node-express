@@ -7,3 +7,5 @@ Proyecto backend desarrollado con Node.js y Express, como parte de la guia de Gi
 ## Como ejecutar el proyecto
 1. Instalar dependencias: npm install
 2. Ejecutar el servidor: node src/app.js
+## Autor
+Stefany Atehortua - Programa ADSO, SENA
